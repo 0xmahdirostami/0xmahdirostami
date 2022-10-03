@@ -6,7 +6,7 @@ I'm a Data Science and AI enthusiast who likes to learn about new things and exp
 - Deep Learning
 - Data Science
 - Machine Learning
-- Computer Vision
+- Reinforcement learning
 - BlockChain
 - Web3
 

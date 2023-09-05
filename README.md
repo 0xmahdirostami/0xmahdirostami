@@ -1,6 +1,6 @@
 ### Hello there!! 👋
 
-I'm a Data Science and AI enthusiast who likes to learn about new things and explore out of the 📦. 
+I'm a Security Researcher, Data Science and AI enthusiast who likes to learn about new things and explore out of the 📦. 
 
 ### ⚡ Domains:
 - Web3

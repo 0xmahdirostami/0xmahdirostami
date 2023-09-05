@@ -3,12 +3,15 @@
 I'm a Data Science and AI enthusiast who likes to learn about new things and explore out of the 📦. 
 
 ### ⚡ Domains:
+- Web3
+- Ethereum
+- Smart contract auditing
 - Deep Learning
 - Data Science
 - Machine Learning
 - Reinforcement learning
 - BlockChain
-- Web3
+
 
 <!--
 **rostamimahdi1997/rostamimahdi1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,31 +6,49 @@ Focused on Solana/Solidity/Vyper/Rust codebases.
 
 ## Portfolio:
 ### Private audits
+- Accretion Labs
 
-| Date         | Project                                           | Language                        | Guild        | Report                                                                 | 
-| ------------ | ------------------------------------------------- | ------------------------------- | ------------ | --------------------------------------------------------------- |
-| 2025-June    |  Private yet                                      | Rust(Solana, Anchor) diff-audit | Accretion    | Not reported yet                                                       |
-| 2025-May     |  Private yet                                      | Rust(Solana, pinocchio)         | Accretion    | Not reported yet                                                       |
-| 2025-May     |  RealmsDao                                        | Rust(Solana, Native) diff-audit | Accretion    | [Report](https://github.com/accretion-xyz/audit-reports/blob/main/2025-accretion-realms-versioned-transactions-audit-A25REA1.pdf) |  
-| 2025-May     |  Zipper                                           | Solidity                        | Pashov       | Not reported yet                                                       |
-| 2025-May     |  PumpDotFun                                       | Rust(Solana, Anchor) diff-audit | Pashov       | Not reported yet                                                                                            |
-| 2025-April   |  Private yet                                      | Rust(Solana, Native)            | Accretion    | Not reported yet                                                       |
-| 2025-April   |  Private yet                                      | Rust(Solana, Native)            | Accretion    | Not reported yet                                                       |
-| 2025-April   |  bob-airdrop                                      | Solidity diff-audit             | Pashov       | Not reported yet                                                                                            |
-| 2025-March   |  Curve                                            | Vyper                           | Pashov       | Not reported yet                                                                                            |
-| 2025-March   |  PumpDotFun                                       | Rust(Solana, Anchor)            | Pashov       | Not reported yet                                                                                            |
-| 2025-March   |  Private yet                                      | Rust(Solana, Anchor)            | Guvenseckaya | Not reported yet                                                       |
-| 2025-February|  PumpDotFun                                       | Rust(Solana, Anchor)            | Pashov       | Not reported yet                                                                                            |
-| 2025-January |  Burve                                            | Solidity                        | Pashov       | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Burve-security-review_2025-01-29.pdf)        |
-| 2025-January |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity                        | Pashov       | [Report](https://github.com/pashov/audits/blob/master/team/pdf/OnchainHeroes-security-review_2025-01-13.pdf)|
-| 2025-January |  Private yet                                      | Rust(Solana, Anchor)            | Guvenseckaya | Not reported yet                                                       |
-| 2025-January |  Cyber Cash [Possum lab](https://www.possumlabs.io/) | Solidity                     | Solo         | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCyberCash/report.pdf) |
-| 2024-November | Passel Market [Possum lab](https://www.possumlabs.io/) | Solidity                  | Solo         | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumPassel/report.pdf) |
-| 2024-September | KeyperLabs AG [Palmeradao](https://www.palmeradao.xyz/) | Solidity              | Solo         | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PalmeraDao/report.pdf) |
-| 2024-July     | Core [Possum lab](https://www.possumlabs.io/) | Solidity                           | Solo         | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCore/Report.pdf) |
-| 2024-May      | Adapters [Possum lab](https://www.possumlabs.io/) | Solidity                       | Solo         | Private | 
-| 2024-March    | PortalsV2 [Possum lab](https://www.possumlabs.io/) | Solidity                      | Solo         | Private | 
-| 2023-December | Time Rift [Possum lab](https://www.possumlabs.io/) | olidity                       | Solo         | [Report](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/PossumTimeRift/report.pdf) | 
+| Date         | Project                                           | Language                        | report                                                                 |
+| ------------ | ------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------- |
+| 2025-June    |  Private yet                                      | Rust(Solana, Anchor) diff-audit | Not reported yet                                                       |
+| 2025-May     |  Private yet                                      | Rust(Solana, pinocchio)         | Not reported yet                                                       |
+| 2025-May     |  RealmsDao                                        | Rust(Solana, Native) diff-audit | [Report](https://github.com/accretion-xyz/audit-reports/blob/main/2025-accretion-realms-versioned-transactions-audit-A25REA1.pdf) |  
+| 2025-April   |  Private yet                                      | Rust(Solana, Native)            | Not reported yet                                                       |
+| 2025-April   |  Private yet                                      | Rust(Solana, Native)            | Not reported yet                                                       |
+
+
+- Pashov Audit Group
+
+| Date         | Project                                           | Language                        | report                                                                                                      |
+| ------------ | ------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------- | 
+| 2025-May     |  Zipper                                           | Solidity                        | Not reported yet                                                                                            |
+| 2025-May     |  PumpDotFun                                       | Rust(Solana, Anchor) diff-audit | Not reported yet                                                                                            |
+| 2025-April   |  bob-airdrop                                      | Solidity diff-audit             | Not reported yet                                                                                            |
+| 2025-March   |  Curve                                            | Vyper                           | Not reported yet                                                                                            |
+| 2025-March   |  PumpDotFun                                       | Rust(Solana, Anchor)            | Not reported yet                                                                                            |
+| 2025-February|  PumpDotFun                                       | Rust(Solana, Anchor)            | Not reported yet                                                                                            |
+| 2025-January |  Burve                                            | Solidity                        | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Burve-security-review_2025-01-29.pdf)        |
+| 2025-January |  [Onchain Heroes](https://www.onchainheroes.xyz/) | Solidity                        | [Report](https://github.com/pashov/audits/blob/master/team/pdf/OnchainHeroes-security-review_2025-01-13.pdf)|
+
+
+- Guvenkaya Sec
+
+| Date         | Project                                           | Language              | report                                                                 |
+| ------------ | ------------------------------------------------- | --------------------- | ---------------------------------------------------------------------- |
+| 2025-March   |  Private yet                                      | Rust(Solana, Anchor)  | Not reported yet                                                       |
+| 2025-January |  Private yet                                      | Rust(Solana, Anchor)  | Not reported yet                                                       |
+
+- Solo
+
+| Date         | Project                                           | Language                         | Report                                                                 | 
+| ------------ | ------------------------------------------------- | -------------------------------  | --------------------------------------------------------------- |
+| 2025-January |  Cyber Cash [Possum lab](https://www.possumlabs.io/) | Solidity                      | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCyberCash/report.pdf) |
+| 2024-November | Passel Market [Possum lab](https://www.possumlabs.io/) | Solidity                   | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumPassel/report.pdf) |
+| 2024-September | KeyperLabs AG [Palmeradao](https://www.palmeradao.xyz/) | Solidity                 | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PalmeraDao/report.pdf) |
+| 2024-July     | Core [Possum lab](https://www.possumlabs.io/) | Solidity                            | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCore/Report.pdf) |
+| 2024-May      | Adapters [Possum lab](https://www.possumlabs.io/) | Solidity                        | Private | 
+| 2024-March    | PortalsV2 [Possum lab](https://www.possumlabs.io/) | Solidity                       | Private | 
+| 2023-December | Time Rift [Possum lab](https://www.possumlabs.io/) | olidity                        | [Report](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/PossumTimeRift/report.pdf) | 
 
 ### Competitions
 | Date           | Contest              | Language            | Result | Leaderboard                                                                                                                         | Host         | 

@@ -4,7 +4,6 @@ I'm a web3 security researcher & hacker.
 
 Focused on Solana/Solidity/Vyper/Rust codebases.
 
-## Portfolio:
 ### Private audits
 - Accretion Labs
 
@@ -48,7 +47,7 @@ Focused on Solana/Solidity/Vyper/Rust codebases.
 | 2024-July     | Core [Possum lab](https://www.possumlabs.io/) | Solidity                            | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCore/Report.pdf) |
 | 2024-May      | Adapters [Possum lab](https://www.possumlabs.io/) | Solidity                        | Private | 
 | 2024-March    | PortalsV2 [Possum lab](https://www.possumlabs.io/) | Solidity                       | Private | 
-| 2023-December | Time Rift [Possum lab](https://www.possumlabs.io/) | olidity                        | [Report](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/PossumTimeRift/report.pdf) | 
+| 2023-December | Time Rift [Possum lab](https://www.possumlabs.io/) | Solidity                        | [Report](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/PossumTimeRift/report.pdf) | 
 
 ### Competitions
 | Date           | Contest              | Language            | Result | Leaderboard                                                                                                                         | Host         | 

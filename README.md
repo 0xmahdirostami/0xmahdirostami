@@ -26,7 +26,7 @@ Focused on Solana/Solidity/Vyper/Rust codebases.
 | 2025-January |  Private yet                                      | Rust(Solana, Anchor)            | Guvenseckaya | Not reported yet                                                       |
 | 2025-January |  Cyber Cash [Possum lab](https://www.possumlabs.io/) | Solidity                     | Solo         | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCyberCash/report.pdf) |
 | 2024-November | Passel Market [Possum lab](https://www.possumlabs.io/) | Solidity                  | Solo         | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumPassel/report.pdf) |
-| 2024-September | KeyperLabs AG [Palmeradao](https://www.palmeradao.xyz/)|  | Solidity              | Solo         | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PalmeraDao/report.pdf) |
+| 2024-September | KeyperLabs AG [Palmeradao](https://www.palmeradao.xyz/) | Solidity              | Solo         | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PalmeraDao/report.pdf) |
 | 2024-July     | Core [Possum lab](https://www.possumlabs.io/) | Solidity                           | Solo         | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCore/Report.pdf) |
 | 2024-May      | Adapters [Possum lab](https://www.possumlabs.io/) | Solidity                       | Solo         | Private | 
 | 2024-March    | PortalsV2 [Possum lab](https://www.possumlabs.io/) | Solidity                      | Solo         | Private | 

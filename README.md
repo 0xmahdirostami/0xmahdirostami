@@ -40,15 +40,16 @@ Focused on Solana/Solidity/Vyper/Rust codebases.
 
 - Solo
 
-| Date         | Project                                           | Language                         | Report                                                                 | 
-| ------------ | ------------------------------------------------- | -------------------------------  | --------------------------------------------------------------- |
+| Date         | Project                                           | Language                         | Report                                                                                                | 
+| ------------ | ------------------------------------------------- | -------------------------------  | ----------------------------------------------------------------------------------------------------- |
+| 2025-June      | TopCut [Possum lab](https://www.possumlabs.io/) | Solidity                         | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumTopCut/report.pdf)    |
 | 2025-January |  Cyber Cash [Possum lab](https://www.possumlabs.io/) | Solidity                      | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCyberCash/report.pdf) |
-| 2024-November | Passel Market [Possum lab](https://www.possumlabs.io/) | Solidity                   | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumPassel/report.pdf) |
-| 2024-September | KeyperLabs AG [Palmeradao](https://www.palmeradao.xyz/) | Solidity                 | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PalmeraDao/report.pdf) |
-| 2024-July     | Core [Possum lab](https://www.possumlabs.io/) | Solidity                            | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCore/Report.pdf) |
+| 2024-November | Passel Market [Possum lab](https://www.possumlabs.io/) | Solidity                   | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumPassel/report.pdf)    |
+| 2024-September | KeyperLabs AG [Palmeradao](https://www.palmeradao.xyz/) | Solidity                 | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PalmeraDao/report.pdf)      |
+| 2024-July     | Core [Possum lab](https://www.possumlabs.io/) | Solidity                            | [Report](https://github.com/0xmahdirostami/audits/blob/main/Private-audit/PossumCore/Report.pdf)      |
 | 2024-May      | Adapters [Possum lab](https://www.possumlabs.io/) | Solidity                        | Private | 
 | 2024-March    | PortalsV2 [Possum lab](https://www.possumlabs.io/) | Solidity                       | Private | 
-| 2023-December | Time Rift [Possum lab](https://www.possumlabs.io/) | Solidity                        | [Report](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/PossumTimeRift/report.pdf) | 
+| 2023-December | Time Rift [Possum lab](https://www.possumlabs.io/) | Solidity                       | [Report](https://github.com/0xmahdirostami/audits/tree/main/Private-audit/PossumTimeRift/report.pdf) | 
 
 ### Competitions
 | Date           | Contest              | Language            | Result | Leaderboard                                                                                                                         | Host         | 
